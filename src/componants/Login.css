@@ -1,0 +1,15 @@
+.mainlogin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: black; */
+}
+.photologin img{
+    height: 100vh;
+    width: 55vw;
+}
+.upperlogin{
+    margin-right: 203px;
+    margin-left: 70px;
+}
